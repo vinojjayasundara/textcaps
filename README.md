@@ -50,13 +50,15 @@ Our system comprises five steps as follows:
 ## Usage 
 1. Install [requirements.txt](https://github.com/vinojjayasundara/textcaps/blob/master/requirements.txt) and required dependencies like cuDNN. ```pip install -r requirements.txt```
 2. Clone this repo: ```git clone https://github.com/vinoj/TextCaps.git```
-3. The following command trains the fresh CapsNet M<sub>1</sub> as illustrated in step (a):
+3. Download and extract the [dataset](https://drive.google.com/open?id=1nT99hVwQacxsX9aMW1V40MCQXJ9n7kUe).
+
+4. The following command trains the fresh CapsNet M<sub>1</sub> as illustrated in step (a):
 ```
 python textcaps_emnist_bal.py --cnt 200
 ``` 
 The ```cnt``` parameter specifies the number of training samples to be used. Any other custom dataset can also be used.
 
-4. The following command generates new images as illustrated in step (b)-(d):
+5. The following command generates new images as illustrated in step (b)-(d):
 ```
 python textcaps_emnist_bal.py -dg --save_dir emnist_bal_200/ -w emnist_bal_200/trained_model.h5 --samples_to_generate 10
 ``` 
