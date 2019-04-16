@@ -1,0 +1,12 @@
+### Dependencies for TextCaps			  	###
+###                                             ###
+### To install, run:                            ###
+###      $ pip install -r requirements.txt      ###
+###                                             ###
+###################################################
+
+## Keras neural-network library ##
+keras
+
+## NumPy python library##
+numpy
