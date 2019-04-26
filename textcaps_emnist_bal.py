@@ -135,7 +135,7 @@ def test(model, data, args):
     x_test, y_test = data
     y_pred, x_recon = model.predict(x_test, batch_size=args.batch_size*8)
     print('-'*30 + 'Begin: test' + '-'*30)
-    print('Test acc:', np.sum(np.argmax(y_pred, 1) == np.argmax(y_test, 1))/y_test.shape[0])
+    print('Test acc:', np.sum(np.argmax(y_pred, 1) == np.argmax(y_test, 1))/float(y_test.shape[0]))
     
 class dataGeneration():
     def __init__(self, model,data,args,samples_to_generate = 2):
