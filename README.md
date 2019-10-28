@@ -1,7 +1,7 @@
 # Handwritten Character Recognition with Very Small Datasets (TextCaps)
 
-<p> This repository contains the code for TextCaps introduced in the following paper <b>
-<a href="https://ieeexplore.ieee.org/document/8658735"> TextCaps : Handwritten Character Recognition with Very Small Datasets (WACV 2019) </a></b>. </p>
+<p align="justify"> This repository contains the code for TextCaps introduced in the following paper <b>
+<a href="https://ieeexplore.ieee.org/document/8658735"> TextCaps : Handwritten Character Recognition with Very Small Datasets </a> (WACV 2019)</b>. </p>
 
 [Vinoj Jayasundara](https://scholar.google.com.sg/citations?user=2yTeZ58AAAAJ&hl=en&oi=ao), [Sandaru Jayasekara](https://scholar.google.com/citations?user=98ItndMAAAAJ&hl=en&oi=sra), [Hirunima Jayasekara](https://github.com/hirunima), [Jathushan Rajasegaran](https://scholar.google.com/citations?user=Ctp3igcAAAAJ&hl=en), [Suranga Seneviratne](https://scholar.google.com/citations?user=Kk6F5cYAAAAJ&hl=en), [Ranga Rodrigo](https://scholar.google.com/citations?user=YaEJbvYAAAAJ&hl=en)
  
