@@ -96,6 +96,7 @@ Thus, for practical use, we suggest using L1 with DSSIM or BCE.
 
 ## Some Following up Projects
 1. [DeepCaps: Going Deeper with Capsule Networks](https://github.com/brjathu)
+2. [TreeCaps: Tree-Structured Capsule Networks for Program Source Code Processing](https://github.com/vinojjayasundara/treecaps)
 
 ## We credit
 We have used [this](https://github.com/XifengGuo/CapsNet-Keras) as the base CapsNet implementation. We thank and credit the contributors of this repository.
