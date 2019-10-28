@@ -1,7 +1,7 @@
 # Handwritten Character Recognition with Very Small Datasets (TextCaps)
 
-<p aligh="center"> This repository contains the code for TextCaps introduced in the following paper 
-[TextCaps : Handwritten Character Recognition with Very Small Datasets](https://ieeexplore.ieee.org/document/8658735) (WACV 2019) </p>
+This repository contains the code for TextCaps introduced in the following paper 
+[TextCaps : Handwritten Character Recognition with Very Small Datasets](https://ieeexplore.ieee.org/document/8658735) (WACV 2019).
 
 [Vinoj Jayasundara](https://scholar.google.com.sg/citations?user=2yTeZ58AAAAJ&hl=en&oi=ao), [Sandaru Jayasekara](https://scholar.google.com/citations?user=98ItndMAAAAJ&hl=en&oi=sra), [Hirunima Jayasekara](https://github.com/hirunima), [Jathushan Rajasegaran](https://scholar.google.com/citations?user=Ctp3igcAAAAJ&hl=en), [Suranga Seneviratne](https://scholar.google.com/citations?user=Kk6F5cYAAAAJ&hl=en), [Ranga Rodrigo](https://scholar.google.com/citations?user=YaEJbvYAAAAJ&hl=en)
  
@@ -95,7 +95,7 @@ Fashion MNIST |93.71 ± 0.64% |85.36 ± 0.79%
 Thus, for practical use, we suggest using L1 with DSSIM or BCE.
 
 ## Some Following up Projects
-1. [DeepCaps: Going Deeper with Capsule Networks](https://github.com/brjathu)
+1. [DeepCaps: Going Deeper with Capsule Networks](https://github.com/vinojjayasundara/deepcaps)
 2. [TreeCaps: Tree-Structured Capsule Networks for Program Source Code Processing](https://github.com/vinojjayasundara/treecaps)
 
 ## We credit
